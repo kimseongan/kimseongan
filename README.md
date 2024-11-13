@@ -1,6 +1,7 @@
 ## 팀 개발을 위한 git github 시작하기
 
-"C:\Users\chosun\Desktop\화면 캡처 2024-11-13 093706.jpg"
+![화면 캡처 2024-11-13 093706](https://github.com/user-attachments/assets/5688e906-2bc8-4c87-af3a-de5fa71f3854)
+
 
 <!--
 **kimseongan/kimseongan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
