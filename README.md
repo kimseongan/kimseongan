@@ -2,12 +2,13 @@
 
 ![화면 캡처 2024-11-13 093706](https://github.com/user-attachments/assets/5688e906-2bc8-4c87-af3a-de5fa71f3854)
 
-### :octocat: 안녕하세요? 둥이에요
+
+
 <!--
 **kimseongan/kimseongan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### :octocat: 안녕하세요? 둥이에요
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
