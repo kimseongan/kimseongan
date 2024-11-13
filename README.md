@@ -1,6 +1,6 @@
 ## 팀 개발을 위한 git github 시작하기
 
-https://mail.naver.com/read/image/original/?mimeSN=1731458072.542848.661.55040&offset=1462&size=2740208&u=dddd2120&cid=c32de98d5cdd5ebceac078b83dc57ba@cweb002.nm&contentType=image/jpeg&filename=1731458069907.jpeg&org=1
+"C:\Users\chosun\Desktop\화면 캡처 2024-11-13 093706.jpg"
 
 <!--
 **kimseongan/kimseongan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
